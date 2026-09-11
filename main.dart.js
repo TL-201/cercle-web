@@ -58097,7 +58097,7 @@ $0(){return this.a.WY("Instagram",this.b)},
 $S:0}
 A.YX.prototype={
 E(a){var s=null
-return A.dy(s,B.B,A.h1(!0,new A.a4(B.tr,A.as(A.b([B.pO,B.iJ,A.w("Application received.",s,s,s,s,A.aM(s,s,B.E,s,s,s,s,s,s,s,s,34,s,s,B.bC,s,1.15,!0,s,-0.5,s,s,s,s,s,s),s,s,s),B.ap,A.w("Our committee reviews every application personally. We'll be in touch.",s,s,s,s,A.aM(s,s,B.N,s,s,s,s,s,s,s,s,15,s,s,B.bC,s,1.6,!0,s,s,s,s,s,s,s,s),s,s,s),B.bG,A.w("vienna@cercle.club",s,s,s,s,A.aM(s,s,B.p,s,s,s,s,s,s,s,s,13,s,s,s,s,s,!0,s,0.4,s,s,s,s,s,s),s,s,s),B.h4,B.afF,B.afG,B.afH,B.iJ,A.bL(A.eP(B.aa4,new A.ayX(),s),s,s)],t.p),B.y,B.f,B.h,0,B.n),s),!0),s)}}
+return A.dy(s,B.B,A.h1(!0,new A.a4(B.tr,A.as(A.b([B.pO,B.iJ,A.w("Application received.",s,s,s,s,A.aM(s,s,B.E,s,s,s,s,s,s,s,s,34,s,s,B.bC,s,1.15,!0,s,-0.5,s,s,s,s,s,s),s,s,s),B.ap,A.w("Our committee reviews every application personally. We'll be in touch.",s,s,s,s,A.aM(s,s,B.N,s,s,s,s,s,s,s,s,15,s,s,B.bC,s,1.6,!0,s,s,s,s,s,s,s,s),s,s,s),B.bG,A.w("vienna@cercle.club",s,s,s,s,A.aM(s,s,B.p,s,s,s,s,s,s,s,s,13,s,s,s,s,s,!0,s,0.4,s,s,s,s,s,s),s,s,s),B.h4,B.afF,B.afH,B.afG,B.iJ,A.bL(A.eP(B.aa4,new A.ayX(),s),s,s)],t.p),B.y,B.f,B.h,0,B.n),s),!0),s)}}
 A.ayX.prototype={
 $0(){return A.Y6()},
 $S:0}
@@ -124315,8 +124315,8 @@ B.qu=new A.h9(7,"hourDialType")
 B.ee=new A.h9(8,"selectedTime")
 B.dO=new A.h9(9,"onSelectedTimeChanged")
 B.afF=new A.B8("NOW","Under review",!0,!1,null)
-B.afG=new A.B8("NEXT","Profile goes live",!1,!1,null)
-B.afH=new A.B8("THEN","Vienna opens",!1,!0,null)
+B.afG=new A.B8("THEN","Be a member",!1,!0,null)
+B.afH=new A.B8("NEXT","Profile goes live",!1,!1,null)
 B.m_=new A.Oa(0,"leading")
 B.m0=new A.Oa(1,"middle")
 B.m1=new A.Oa(2,"trailing")
